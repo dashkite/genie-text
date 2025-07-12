@@ -41,6 +41,6 @@
   "dependencies": {
     "@dashkite/masonry": "0.14.0",
     "@dashkite/masonry-targets": "0.2.0",
-    "@dashkite/masonry-text": "link:../masonry-text"
+    "@dashkite/masonry-text": "0.1.0"
   }
 }

@@ -40,7 +40,7 @@
   },
   "dependencies": {
     "@dashkite/masonry": "link:../masonry",
-    "@dashkite/masonry-targets": "link:../masonry-targets",
+    "@dashkite/masonry-targets": "0.2.0",
     "@dashkite/masonry-text": "link:../masonry-text"
   }
 }

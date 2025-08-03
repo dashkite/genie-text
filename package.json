@@ -1,6 +1,6 @@
 {
   "name": "@dashkite/genie-text",
-  "version": "0.11.2",
+  "version": "0.11.3",
   "description": "Genie Preset for turning text files into JavaScript modules",
   "keywords": [],
   "homepage": "https://github.com/dashkite/genie-text#readme",
